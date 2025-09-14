@@ -1,0 +1,12 @@
+Environment Checklist
+-------------------------------------
+Python version: Python 3.12.10
+Venv active: C:\Users\Haidz\Desktop\Assignment-2-Environment-Checklist-Reflection\.venv\Scripts\python.exe
+Django version: Django 5.2.6
+Runserver: System check identified no issues (0 silenced).
+           September 14, 2025 - 15:56:53
+           Django version 5.2.6, using settings 'mysite2.settings'
+           Starting development server at http://127.0.0.1:8000/
+           Quit the server with CTRL-BREAK.
+Git remote set: origin  https://github.com/ai-sodium/Assignment-2-Environment-Checklist-Reflection.git (fetch)
+                origin  https://github.com/ai-sodium/Assignment-2-Environment-Checklist-Reflection.git (push)
